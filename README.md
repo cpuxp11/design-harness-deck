@@ -1,5 +1,14 @@
 # 하네스톤 #1 우승 회고 — 발표덱
 
+> **AI는 디자인을 더럽게 못합니다** — 그래서 디자인 하네스를 만들었습니다.
+> 2026.08.01 바이브마피아클럽 하네스톤 #1 (AI Native 디자인 해커톤) 1조 우승 회고.
+
+- 🖥 **발표덱**: https://design-harness-deck.vercel.app
+- 📄 **PDF**: https://design-harness-deck.vercel.app/하네스톤-발표덱.pdf
+- 💻 **코드**: https://github.com/cpuxp11/design-harness-deck
+
+## 로컬에서
+
 - **열기**: `index.html` 더블클릭 (← → 이동 · `F` 전체화면 · ⌘P → PDF 저장)
 - **PDF**: `하네스톤-발표덱.pdf` (1280×720, 45장)
 - **수정**: `build_deck.py`의 `SLIDES` 리스트만 고치고 `python3 build_deck.py`
