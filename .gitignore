@@ -2,3 +2,4 @@
 .omc/
 .vercel/
 __pycache__/
+_unused/
